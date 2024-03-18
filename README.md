@@ -47,3 +47,7 @@ npm run dev
 
 Este comando iniciará o servidor e reiniciará automaticamente sempre que houver uma alteração nos arquivos do projeto.
 
+## Tecnologias utilizadas
+* [Node.js](https://nodejs.org/)
+* [AssemblyScript](https://github.com/AssemblyScript)
+* [ts-node](https://typestrong.org/ts-node/docs/)
